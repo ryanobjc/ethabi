@@ -1,6 +1,6 @@
 [package]
 name = "ethabi"
-version = "14.1.0"
+version = "14.1.1"
 authors = [
     "Parity Technologies <admin@parity.io>",
     "Artem Vorotnikov <artem@vorotnikov.me>",
